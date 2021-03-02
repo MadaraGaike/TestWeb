@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021. gada 2. marts, 18:10:34
+    Author     : MaTiLa
+*/
+
+body {
+    background-image: url(img_kalni.jpg);
+        
+       }
+       h1 { 
+       color: midnightblue;
+       font-family: "Times New Roman", Times, serif;
+       font-size: 40px;
+       }
+       p {
+       color: darkcyan;
+       font-family: "Times New Roman", Times, serif;
+       font-size: 24px;
+       }
+       ul{ 
+       color: black;
+       font-family: "Times New Roman", Times, serif; 
+       font-size: 18px;
+       }
+       table, th, td {
+           border: 1px solid lightskyblue;   
+       }
